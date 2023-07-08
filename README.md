@@ -11,15 +11,15 @@
 
 首页预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr1zTK.png)
+![](https://i.postimg.cc/pLqhLcMC/1111.png)
 
 应用预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr39YD.png)
+![](https://i.postimg.cc/KjP4SJ5n/2222.png)
 
 Midjourney预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr3pFO.png)
+![](https://i.postimg.cc/L5Khbrj9/333.png)
 
 绘画广场预览:
 ---
@@ -27,15 +27,24 @@ Midjourney预览:
 
 DALL·E2绘画预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr1xw6.png)
+![](https://i.postimg.cc/mrkcz3bs/4444.png)
 
 思维导图预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr3Cfe.png)
+![](https://i.postimg.cc/pdSmD9Tn/5555.png)
+
+商场预览:
+---
+![](https://i.postimg.cc/nVBXDhtC/7777.png)
+
+分销预览:
+---
+![](https://i.postimg.cc/k4tBwn6Y/8888.png)
 
 个人中心预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr3iSH.png)
+![](https://i.postimg.cc/jSsnK0mC/99.png)
+
 
 488¥出售整套程序，包含搭建以及后续更新，未来模块不收费
 ---
