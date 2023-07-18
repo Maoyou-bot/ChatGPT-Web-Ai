@@ -2,7 +2,7 @@
 使用 Nestjs 和 Vue3 搭建的 商业化ChatGPT网站
 ---
 
-演示站： [前端](https://mybot.cc)
+演示站： [前端](https://daohang.site)
 
 演示站： [后端](https://mybot.cc/nineai/admin/#/login)
 
