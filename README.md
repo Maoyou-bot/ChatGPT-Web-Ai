@@ -23,39 +23,39 @@
 
 首页预览:
 ---
-![](https://i.postimg.cc/pLqhLcMC/1111.png)
+![](https://i.postimg.cc/k5v9sbW8/IMG-0479.jpg)
+
+签到预览:
+---
+![](https://i.postimg.cc/Gm0C1QQG/IMG-0486.jpg)
 
 应用预览:
 ---
-![](https://i.postimg.cc/KjP4SJ5n/2222.png)
+![](https://i.postimg.cc/G23R5mjf/IMG-0480.jpg)
 
 Midjourney预览:
 ---
-![](https://i.postimg.cc/L5Khbrj9/333.png)
+![](https://i.postimg.cc/63HKJxjp/IMG-0481.jpg)
 
 绘画广场预览:
 ---
-![](https://s1.ax1x.com/2023/07/03/pCr3Fld.png)
-
-DALL·E2绘画预览:
----
-![](https://i.postimg.cc/mrkcz3bs/4444.png)
+![](https://i.postimg.cc/Y0hHtDZf/IMG-0482.jpg)
 
 思维导图预览:
 ---
-![](https://i.postimg.cc/pdSmD9Tn/5555.png)
+![](https://i.postimg.cc/qqSdqXdf/IMG-0483.jpg)
 
 商场预览:
 ---
-![](https://i.postimg.cc/nVBXDhtC/7777.png)
+![](https://i.postimg.cc/WpHV5jq9/IMG-0484.jpg)
 
 分销预览:
 ---
-![](https://i.postimg.cc/k4tBwn6Y/8888.png)
+![](https://i.postimg.cc/zXHrMMnq/IMG-0485.jpg)
 
 个人中心预览:
 ---
-![](https://i.postimg.cc/jSsnK0mC/99.png)
+![](https://i.postimg.cc/XYw0NCHh/IMG-0487.jpg)
 
 
 
@@ -67,9 +67,9 @@ DALL·E2绘画预览:
 - 完善的后台管理系统支持
 ---
 ### 功能：
-- [x] 支持邮件激活账号
+- [x] 支持分销
 - [x] 支持上下文对话
-- [x] 支持微信登录
+- [x] 支持微信登录，邮箱登陆，手机号登陆
 - [x] 精准统计绘画token、记录所有用户消费排行
 - [x] 支持模糊匹配自定义回复消息
 - [x] 支持按此按张按余额多种扣费方式
