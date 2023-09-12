@@ -4,7 +4,7 @@
 
 演示站： [前端](https://daohang.site)
 
-演示站： [后端](https://mybot.cc/nineai/admin/#/login)
+演示站： [后端](https://uaibot/nineai/admin/#/login)
 
 账号：admin 密码：123456
 
